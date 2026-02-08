@@ -209,4 +209,4 @@ A reliable, low-cost, and flexible IoT-based weather monitoring solution using E
 
 ## Demonstration Video
 
-<video src="./media/demo.mp4" controls width="640" height="360"></video>
+![Demo](./images/demo.mp4)
